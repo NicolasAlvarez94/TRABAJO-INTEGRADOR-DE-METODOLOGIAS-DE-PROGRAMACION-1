@@ -1,0 +1,7 @@
+C:\Users\MARCOS\Desktop\TRABAJO INTEGRADOR METODOLOGIAS\Heroes\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\MARCOS\Desktop\TRABAJO INTEGRADOR METODOLOGIAS\Heroes\Modelo\bin\Debug\Modelo.exe
+C:\Users\MARCOS\Desktop\TRABAJO INTEGRADOR METODOLOGIAS\Heroes\Modelo\bin\Debug\Modelo.pdb
+C:\Users\MARCOS\Desktop\TRABAJO INTEGRADOR METODOLOGIAS\Heroes\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\MARCOS\Desktop\TRABAJO INTEGRADOR METODOLOGIAS\Heroes\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\Desktop\TRABAJO INTEGRADOR METODOLOGIAS\Heroes\Modelo\obj\Debug\Modelo.exe
+C:\Users\MARCOS\Desktop\TRABAJO INTEGRADOR METODOLOGIAS\Heroes\Modelo\obj\Debug\Modelo.pdb
